@@ -2,7 +2,7 @@
 - 👀 I’m interested in Website Developing and coding
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 Reach to me on gmail or linkedin.
 
 <!---
 sujiverma16/sujiverma16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
