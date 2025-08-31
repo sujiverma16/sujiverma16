@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujiverma16
 - 👀 I’m interested in Website Developing and coding
-- 🌱 I’m currently learning Python language
+- 🌱 I’m currently working as Java Developer
 - 💞️ I’m looking to collaborate on 
 - 📫 Reach to me on https://www.linkedin.com/in/sujit-verma-335aaa293/.
 
